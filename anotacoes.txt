@@ -1,0 +1,7 @@
+pandas 
+
+
+exibir os 5 valores mais comuns de uma variável.
+df = dataframe
+zipcode = df['zip']
+zipcode.value_counts().head()
